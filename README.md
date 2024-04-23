@@ -1,6 +1,15 @@
 ---
-Поиск: слова
-игра: false
+Автобус: Картошка
+Лимур: true
+tags:
+  - Штопор
+aliases:
+  - Hq
+  - Djdk
+cssclasses:
+  - Tr
+  - Cd
+  - Dx
 ---
 
 # search
